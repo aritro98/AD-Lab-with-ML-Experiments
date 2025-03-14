@@ -1,0 +1,3 @@
+## AD Lab with ML Experiments
+
+This repository contains all **Machine Learning experiments** performed in our 3rd-year **Application Development Lab**. While the lab is titled **Application Development**, the focus here is primarily on **ML applications**, covering various algorithms, models, and real-world implementations. The experiments are well-documented and serve as a reference for students exploring practical ML concepts.
